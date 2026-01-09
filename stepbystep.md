@@ -35,7 +35,7 @@ python -m venv venv
 # Linux/Mac
 python3 -m venv venv
 
-.\venv_etl\Scripts\Activate.ps1
+.\venv\Scripts\Activate.ps1
 
 📦 Passo 6: Instale as dependências do projeto
 Crie um arquivo requirements.txt com:
